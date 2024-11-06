@@ -32,7 +32,7 @@ Follow these steps to run the application on your system:
    ```bash
    npm start
    ```
-   - Similarly, open the terminal for client folder without closing the server terminal and run the following command:
+   - Similarly, open another terminal for client folder without closing the server terminal and run the following command:
    ```bash
    npm run dev
    ```
