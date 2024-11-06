@@ -16,7 +16,7 @@ Follow these steps to run the application on your system:
    git clone https://github.com/moheebk123/Real-Time-Collaborative-Text-Editor.git
    ```
 2. Open the cloned repository in your preferred code editor.
-3. Install the necessary dependencies in both - client and server, by running the following command:
+3. Install the necessary dependencies in both - client and server, by running the following command in the terminal:
 
    ```bash
    cd client
